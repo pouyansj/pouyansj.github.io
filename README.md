@@ -18,13 +18,11 @@ bis 9. Klasse
 **Fornax GmbH - Sicherheitsanalyst**
 
 01.03.2024 – 01.09.2024
-
 Praxissemester - Arbeitete an verschiedenen Projekten in den Bereichen Firewall-Konfiguration, Netzwerksicherheit, Active Directory-Administration, Log-Aggregation mit Loki und Erstellung von Grafana-Dashboards.
 
 **Aposto Aalen - Koordinator**
 
 01.10.2021 – aktuell
-
 Koordination des Bar- und Serviceteams sowie Überwachung des gesamten Ablaufs, um sicherzustellen, dass alles reibungslos läuft.
 
 ## SKILLS
