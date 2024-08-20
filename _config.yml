@@ -1,4 +1,10 @@
 title: Pouyan Soleymanijadidi
-logo: /assets/Pouyan Jadidi 1.jpg
-description: Computer Science Student
-theme: jekyll-theme-minimal
+url: "https://your-username.github.io"
+theme: "minimal-mistakes-jekyll"
+
+author:
+  name: "Pouyan Soleymanijadidi"
+  avatar: "/assets/Pouyan Jadidi 1.jpg"
+  bio: "Your bio here."
+  location: "Hüttlingen, Deutschland"
+  email: "pouyan.sj01@gmail.com"
