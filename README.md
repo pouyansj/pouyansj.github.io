@@ -55,7 +55,6 @@ Koordination des Bar- und Serviceteams sowie Überwachung des gesamten Ablaufs, 
 * Deutsch - C1/C2
 
 ### Contact
-01736973077
-Kirchhofweg 33,
-73460 Hüttlingen
-pouyan.sj01@gmail.com
+Phone: +49 1736973077
+
+E-mail: pouyan.sj01@gmail.com
