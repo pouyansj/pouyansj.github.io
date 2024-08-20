@@ -1,6 +1,12 @@
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  
 title: Pouyan Soleymanijadidi
 url: "https://your-username.github.io"
-theme: "minimal-mistakes-jekyll"
+
 
 author:
   name: "Pouyan Soleymanijadidi"
